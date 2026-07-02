@@ -1,5 +1,7 @@
-Привет!😊 Сейчас я учусь в ВГТУ, на 4 курсе.
+Hi, I'm a Data Engineer.
+2 years of work experience and many years of IT practice.
 
-Тут собраны мои интересные проекты, а так же проекты, которые мы вели или ведём целыми командами 😊🎒🖥️
+This github account contains mostly various projects that I wrote (some jointly with my friends or as part of some kind of educational activity).
 
-Основная тематика - обработка данных (Spark, Airflow) и Web сайты.
+At the moment, various pet projects and more or less independent project ideas are collected here, which may someday change the world.
+🙂 🌍🌎🌏 🌿🍬
